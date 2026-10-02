@@ -1,0 +1,15 @@
+# Packages imported by notebooks/train.ipynb and notebooks/evaluate.ipynb.
+# The project ran on Google Colab (Python 3.11, July 2025). The only versions
+# recorded in the original outputs are pinned; the others were not tested.
+torch
+torchvision
+segmentation-models-pytorch==0.5.0
+timm==1.0.17
+albumentations
+iterative-stratification
+opencv-python
+scikit-learn
+numpy
+pillow
+matplotlib
+tqdm
